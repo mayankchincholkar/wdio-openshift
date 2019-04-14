@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "wdio"
+    "test": "wdio",
+    "start": "wdio"
   },
   "author": "",
   "license": "ISC",
